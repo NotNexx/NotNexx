@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in Golang
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on nothing now
-- 📫 How to reach me: mail@notnexx.xyz
+- 📫 How to reach me: mail@nexx.pics
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1141361222210551818)](https://discord.com/users/1141361222210551818)
 
